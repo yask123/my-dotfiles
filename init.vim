@@ -1,0 +1,1 @@
+/Users/yasksrivastava/dotfile/.config/nvim/init.vim
